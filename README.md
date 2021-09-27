@@ -1,6 +1,6 @@
 # PythonCalculator
 
-A simple Python-Based Calculator that can solve some your mathematical problems.
+A simple Python-Based Calculator that can solve some of your mathematical problems.
 
 <b>Calculations that can be done:</b>
 
