@@ -1,3 +1,5 @@
+# Python program to area of a shape
+
 def sarea(s):
     print("Area of the  given square with  side ", s, "is", s**2)
 
