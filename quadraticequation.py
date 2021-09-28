@@ -26,7 +26,7 @@ def equationroots(a, b, c):
         print(- b / (2 * a), " - i", sqrt_val)
 
 
-# Driver Program
+# Enter the a,b,c value, x = 1
 a = 1
 b = 2
 c = -10
