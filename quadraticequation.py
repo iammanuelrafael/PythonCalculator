@@ -37,5 +37,3 @@ if a == 0:
 
 else:
     equationroots(a, b, c)
-
-# https://www.geeksforgeeks.org/python-program-to-solve-quadratic-equation/

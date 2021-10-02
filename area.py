@@ -83,5 +83,3 @@ while(1):
         print("please enter y for Yes, n for No")
         print("Run the tool again!!!")
         break
-
-# https://www.kaggle.com/suhasvs/simple-shape-area-calculator-using-python\

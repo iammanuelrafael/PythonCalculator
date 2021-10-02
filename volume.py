@@ -80,5 +80,3 @@ if shape.lower() == 'sphere':
     print("Volume:", round(volume, 2), 'or', round((volume/pi), 2), 'pi')
     print("Surface Area:", round(surface_area, 2),
           'or', round((surface_area/pi), 2), 'pi')
-
-# https://github.com/Cloudy934/volume-and-surface-area-calculator/blob/master/volume%20and%20surface%20area.py
